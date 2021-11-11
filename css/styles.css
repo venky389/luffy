@@ -1,0 +1,38 @@
+body {
+  background-color: #EAF6F6
+}
+hr
+{
+  background-color: #EAF6F6;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+}
+h1{
+  color:deepskyblue;
+}
+h3
+{
+  color:lawngreen;
+}
+h2{
+  color:violet;
+}
+th{
+  color:deeppink;
+}
+p
+{
+  color: blue;
+}
+tbody
+{
+  color:blue;
+}
+ol{
+  color:blue;
+}
+form{
+  color:blue;
+}
